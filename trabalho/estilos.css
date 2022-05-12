@@ -1,0 +1,32 @@
+#divBusca{
+    background-color:#00ffff;
+    border:solid 2px;
+    border-radius:15px;
+    width: 300px;
+    padding-left:200px;
+    box-align: right;
+  }
+  #txtBusca{
+    /*float:left;*/
+    background-color:transparent;
+    /*padding-left:5px;*/
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:20px;
+    width:230px;
+    border-radius:20px;
+    position:absolute;
+    left: 960px;
+  }
+  #divTeste{
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin-left:-110px;
+    margin-top:-40px;
+  }
+  #btnBusca{
+      box-align:right;
+  }
+  
